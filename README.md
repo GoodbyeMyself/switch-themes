@@ -1,2 +1,3 @@
-# switch-themes
-主题切换 动画效果
+# Implement Telegram switch theme transitions.
+
+主题切换动画效果
